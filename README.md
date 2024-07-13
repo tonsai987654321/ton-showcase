@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 Ton Streamlit showcase
 
-Description of the app ...
+This is my first streamlit mini project
 
 ## Demo App
 
